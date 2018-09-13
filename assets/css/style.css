@@ -1,0 +1,80 @@
+
+  
+  .characters{
+    width:100%;
+    height:110px;
+
+
+
+  }
+
+  #capt-america,
+  #black-panther,
+  #iron-man,
+  #incredible-hulk {
+      border-color: blue;
+  }
+
+    
+  .characters-even{
+    width:100%;
+    height:175px;
+  }
+  
+  
+
+  .card-body{
+  padding: 5px;
+
+  
+  }
+
+
+#start-game {margin-top: 20px;
+} 
+  
+  #messageDisplay{
+    text-align: center;
+    padding: 30px;
+  }
+  .main-title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .main-game {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url('../images/avengers-comics-background-hd-1680x1050-334610.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; }
+    
+
+    .main-game-header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url('../images/avengers-comics-background-hd-1680x1050-334610.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    background-position: center; }
+    
+
+  
+  .btn{
+    background-color: blue;
+    width:150px;
+  }
+  
+  #restart{
+    background-color: red;
+ 
+
+
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
